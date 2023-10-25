@@ -7,7 +7,6 @@ let nivel = " "
 function saldoDeVitorias (numA, numB) {
     let vitorias = numA - numB
     return vitorias
-    classificacao()
 }
 
 // estrutura de decisão
